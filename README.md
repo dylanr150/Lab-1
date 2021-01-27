@@ -2,4 +2,4 @@
 
 This is my first lab.
 
-![](./screen shot for lab 1.PNG)
+![](./ss1.png)
